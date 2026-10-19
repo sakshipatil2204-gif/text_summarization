@@ -1,0 +1,5 @@
+Flask>=3.0,<4.0
+PyMuPDF>=1.24,<2.0
+pytest>=8.0,<9.0
+# Optional: install transformers and a compatible PyTorch build, then set
+# SUMMARIZER_MODEL_PATH to an already downloaded local summarization model.
